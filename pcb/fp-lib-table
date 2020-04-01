@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name random-keyboard-parts)(type KiCad)(uri /home/ronniebathoorn/Documents/Keyboard/libs/random-keyboard-parts.pretty-master)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid-master)(type KiCad)(uri /home/ronniebathoorn/Documents/Keyboard/libs/MX_Alps_Hybrid-master)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri /home/ronniebathoorn/Documents/Keyboard/libs/MX_Alps_Hybrid-master/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri /home/ronniebathoorn/Documents/Keyboard/libs/keyswitches.pretty-master)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri /home/ronniebathoorn/Documents/Keyboard/libs/Keebio-Parts.pretty-master)(options "")(descr ""))
+  (lib (name keebs)(type KiCad)(uri /home/ronniebathoorn/Documents/Keyboard/libs/keebs.pretty-master)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri /home/ronniebathoorn/Documents/Keyboard/libs/kbd-master/kbd.pretty)(options "")(descr ""))
+)

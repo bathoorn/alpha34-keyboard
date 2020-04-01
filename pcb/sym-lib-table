@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name is31fl3731)(type Legacy)(uri /home/ronniebathoorn/Documents/Keyboard/libs/keyboard_parts.pretty-master/is31fl3731.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri /home/ronniebathoorn/Documents/Keyboard/libs/kbd-master/library/kbd.lib)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "/home/ronniebathoorn/Documents/Keyboard/libs/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)
